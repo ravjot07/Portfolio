@@ -1,8 +1,8 @@
 {
-  "name": "ravjot-singh",
+  "name": "ravjot-portfolio",
   "version": "2.0.0",
   "private": true,
-  "homepage": "https://ravjot07.github.io/RavjotSinghPortfolio/",
+  "homepage": "",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
