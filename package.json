@@ -2,7 +2,7 @@
   "name": "Ravjot Singh",
   "version": "2.0.0",
   "private": true,
-  "homepage": "https://ravjot.github.io/",
+  "homepage": "https://ravjot07.github.io/RavjotSinghPortfolio/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
